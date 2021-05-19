@@ -2,7 +2,6 @@
 @section('content')
     
 <div class="container">
-
-    <h1 class="text-danger text-center my-5">On va dire c'est le front end </h1>
+    <h1 class="text-primary text-center"> Hello Man !</h1>
 </div>
 @endsection
